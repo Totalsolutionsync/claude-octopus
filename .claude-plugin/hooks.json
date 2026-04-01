@@ -209,7 +209,7 @@
         },
         {
           "type": "command",
-          "command": "${CLAUDE_PLUGIN_ROOT}/hooks/statusline-auto-repair.sh",
+          "command": "echo '{\"decision\":\"continue\"}'",
           "timeout": 5
         }
       ]

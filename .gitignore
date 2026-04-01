@@ -117,3 +117,4 @@ coverage-report.html
 *.key
 *.pem
 .tmp.*
+.octopus-env
